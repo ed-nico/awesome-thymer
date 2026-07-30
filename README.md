@@ -76,6 +76,7 @@ App plugins extend the entire Thymer application with global features.
 
 - [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace the inline-link arrow with each collection's or page's icon
 - [Copy Code](https://github.com/adrian18hd/thymer-copy-code-plugin) - Copy code blocks and inline code
+- [Cursor Smith](https://github.com/akaready/thymer-cursor-smith) - Forge your text cursor — styles, colors, smooth motion, blinking, particle effects, and a torch spotlight
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry with indent modes and aligned indent guides, plus tuned hover controls
 - [Font Selector](https://github.com/phildrysdale1/thymer-font-selector/) - Separate interface and note fonts
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides and workflowy style bulleting
