@@ -44,10 +44,12 @@ App plugins extend the entire Thymer application with global features.
 - [Importer](https://github.com/phildrysdale1/thymer-importer) - Import notes from other note apps
 - [Quick Capture](https://github.com/gitdaveuk/thymer-quick-capture-plugin) - Quickly capture notes from anywhere
 - [Save to Thymer](https://github.com/zakblf/save-to-thymer) - Save web pages to Thymer collections with custom templates and property mapping
+- [Zotero to Thymer](https://github.com/jkroes/zotero-to-thymer) - Sync Zotero libraries into Thymer as References, People, and Organizations collections
 
 #### Search & Navigation
 
 - [Enhanced Search](https://github.com/RobbK17/thymer-enhanced-search) - Cross-collection record viewer with Search, Duplicates, and Compare modes
+- [Page TOC](https://github.com/jkroes/thymer-page-toc) - Page table of contents as a keyboard popup, right-rail scrollbar, sidebar outline, and sticky header
 - [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
 - [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
 - [Workflow(y) Search](https://github.com/RobbK17/thymer-workflow-search) - Workflowy inspired incremental search plugin
@@ -80,11 +82,13 @@ App plugins extend the entire Thymer application with global features.
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry with indent modes and aligned indent guides, plus tuned hover controls
 - [Font Selector](https://github.com/phildrysdale1/thymer-font-selector/) - Separate interface and note fonts
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides and workflowy style bulleting
+- [Margin Notes](https://github.com/jkroes/thymer-margin-notes) - Tufte-style margin notes rendering #ctx child lines as sidenotes or popovers
 - [PDF Highlighter](https://github.com/parham-shafti/thymer-pdf-highlighter) - Turn PDF highlights into notes
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
 
 #### References & Metadata
 
+- [Aliases](https://github.com/jkroes/thymer-aliases) - An Alias property drives the display text of every reference to a record
 - [Backreferences](https://github.com/harpreetchima/thymer-backreferences) - Thymer backreferences footer plugin
 - [Bidirectional Fields](https://github.com/parham-shafti/thymer-bidirectional-fields) - Keep two page-link fields in sync as inverses
 - [Build Title from Properties](https://github.com/akaready/thymer-build-title-from-properties) - Build collection item display titles from selected property values
@@ -138,7 +142,9 @@ App plugins extend the entire Thymer application with global features.
 
 Collection plugins extend specific note collections with custom views, formulas, and functionality.
 
+- [Link Bookmarker](https://github.com/jkroes/thymer-link-bookmarker) - Bookmark a link from the page you're on, with AI-filled title, type and description
 - [Media Tracker](https://github.com/afroviking/thymer-media-plugin) - Track books, movies, and TV shows you've read or watched
+- [Outline View](https://github.com/jkroes/thymer-outline-view) - An Outline custom view rendering a collection's sub-page hierarchy as a collapsible tree
 - [Weekly Journal](https://github.com/ed-nico/thymer-weekly-journal) - View this week's journal pages side by side
 - [Supertypes](https://github.com/RobbK17/thymer-supertypes) - Adds typed records with coloured badges, per-type field visibility etc.
 - [Hardcover Sync](https://github.com/phildrysdale1/thymer-hardcover-sync/) - Syncs your Hardcover list to a collection
