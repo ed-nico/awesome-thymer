@@ -109,6 +109,7 @@ App plugins extend the entire Thymer application with global features.
 
 #### Themes & Styling
 
+- [Generate Banner](https://github.com/akaready/thymer-generate-banner) - Generate AI banners for any page or collection from OpenRouter image models
 - [Theme Architect](https://github.com/asbedb/theme-thyme) - Preview real-time edits to CSS in Thymer
 
 #### Workspace Utilities
