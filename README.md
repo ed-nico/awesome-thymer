@@ -80,6 +80,7 @@ App plugins extend the entire Thymer application with global features.
 - [Copy Code](https://github.com/adrian18hd/thymer-copy-code-plugin) - Copy code blocks and inline code
 - [Cursor Tweaks](https://github.com/akaready/thymer-cursor-tweaks) - Forge your text cursor — styles, colors, smooth motion, blinking, particle effects, and a torch spotlight
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry with indent modes and aligned indent guides, plus tuned hover controls
+- [Find and Replace](https://github.com/akaready/thymer-find-and-replace) - Find and replace across the page, with VS Code-style ⌘D occurrence selection — the find & replace Thymer doesn't have yet
 - [Font Selector](https://github.com/phildrysdale1/thymer-font-selector/) - Separate interface and note fonts
 - [Indent Rainbow](https://github.com/ahpatel/thymer-indent-rainbow) - Enhanced hierarchy visualisation with rainbow-colored indent guides and workflowy style bulleting
 - [Margin Notes](https://github.com/jkroes/thymer-margin-notes) - Tufte-style margin notes rendering #ctx child lines as sidenotes or popovers
