@@ -50,6 +50,7 @@ App plugins extend the entire Thymer application with global features.
 
 - [Enhanced Search](https://github.com/RobbK17/thymer-enhanced-search) - Cross-collection record viewer with Search, Duplicates, and Compare modes
 - [Page TOC](https://github.com/jkroes/thymer-page-toc) - Page table of contents as a keyboard popup, right-rail scrollbar, sidebar outline, and sticky header
+- [Query Builder](https://github.com/akaready/thymer-query-builder) - Build Thymer search queries in plain English or with colour-coded chips — right on Search, Upcoming and every other query field
 - [Recent Files](https://github.com/phildrysdale1/thymer-recent-files/) - Adds quick access to your most recently modified files via a pop-up modal
 - [Related Notes](https://github.com/ed-nico/thymer-related-notes) - Discovers related notes based on content similarity, shared references, and tags
 - [Workflow(y) Search](https://github.com/RobbK17/thymer-workflow-search) - Workflowy inspired incremental search plugin
