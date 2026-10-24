@@ -72,6 +72,7 @@ App plugins extend the entire Thymer application with global features.
 - [Charts](https://github.com/Braffolk/thymer-charts) - Thymer plugin for creating and using charts
 - [Daily Focus (tasks)](https://github.com/niklashog/Thymer-plugins/tree/main/DailyFocus) - A workspace-wide task dashboard that aggregates tasks from across your entire workspace
 - [Flashcards](https://github.com/talal/thymer-flashcards) - Create and review flashcards using spaced repetition ([FSRS](https://github.com/open-spaced-repetition/ts-fsrs))
+- [Freelance OS](https://github.com/jacoplane/thymer-freelance-os) - A freelance business dashboard for client relationships, project workflows, cashflow, task queues and weekly reviews
 - [Graph View](https://github.com/ed-nico/thymer-graph-view) - Renders an interactive force-directed graph of all your notes, references, and tags
 - [Tables](https://github.com/phildrysdale1/thymer-tables) - Renders editable tables in HTML
 
